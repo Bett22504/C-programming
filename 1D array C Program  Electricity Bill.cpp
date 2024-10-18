@@ -40,3 +40,4 @@ int main(){
 	,totalAmount + surcharge,surcharge;
 	return 0;
 	}
+
