@@ -1,3 +1,4 @@
+
 //C program using 1D array
 /*
 Aurthor:Immanuel Bett
