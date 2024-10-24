@@ -29,3 +29,4 @@ printf("Height:%.2f\n",student1.height);
 printf("email:%s\n",student1.email);
 return 0;
 }
+
