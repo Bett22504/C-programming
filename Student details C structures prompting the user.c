@@ -30,3 +30,4 @@ printf("email:%s\n",student1.email);
 return 0;
 }
 
+
